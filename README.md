@@ -1,4 +1,4 @@
-<img src="C:\Users\GrayHat\Pictures\Screenshot(120).png" alt="Alt text" title="">
+<img src="C:\Users\GrayHat\Pictures\Screenshot(120).png" alt="" title="">
 A Simple Calculator That Solves Addition, Subtraction, Multiplication , and Division.
 
 How To Download It?
