@@ -1,4 +1,4 @@
-#/Screenshot/Screenshot(120).png
+#Calculator
 A Simple Calculator That Solves Addition, Subtraction, Multiplication , and Division.
 
 How To Download It?
