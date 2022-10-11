@@ -1,4 +1,8 @@
-# Calculator
+<div align="center">
+    <img src="<div align="center">
+    <img src="/screenshots/Screenshot120.png" width="400px"</img> 
+</div>" width="400px"</img> 
+</div>
 A Simple Calculator That Solves Addition, Subtraction, Multiplication , and Division.
 
 How To Download It?
